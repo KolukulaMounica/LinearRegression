@@ -16,3 +16,7 @@ Attached a CSV file for the data.
 This model predicts whether the user clicked on the advertisement (or not) based on some parameters such as Daily Time Spent on Site,	Age,	Area Income,	Daily Internet Usage etc.
 
 Attached advertising.CSV file.
+
+
+
+### 3) K Nearest Neighbours
