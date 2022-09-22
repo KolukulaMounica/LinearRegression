@@ -32,3 +32,6 @@ Attached KNN_Project_Data.CSV file.
 This model takes the loan data and based on some information such as purpose, interest rate, installments, annual increments etc., it predicts whether the customer has fully paid their loan amount or not. The decision tree classifier helps in predicting this. Also,  the Random forest classifier is an ensemble model of Decision tree clasifier and takes the n_estimators as a parameter.
 
 Attached loan_data.CSV file.
+
+#### Customer Churn Prediction
+The customer churn prediction model uses the decision-tree algorithm and this is a predictive analysis of why and when customers are likely to churn. Based on historical data this model predicts whether the customers churn or not. A clear explanation of how this works: https://www.youtube.com/watch?v=9rJyvx-TaQ8&list=PL3EgSxS561xyS5mZ1drtG4EUCS_HCb5Bf 
