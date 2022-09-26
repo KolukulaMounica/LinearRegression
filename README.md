@@ -36,3 +36,11 @@ Attached loan_data.CSV file.
 #### Customer Churn Prediction
 The customer churn prediction model uses the decision-tree algorithm and this is a predictive analysis of why and when customers are likely to churn. Based on historical data this model predicts whether the customers churn or not. 
 A clear explanation of how this works: https://www.youtube.com/watch?v=9rJyvx-TaQ8&list=PL3EgSxS561xyS5mZ1drtG4EUCS_HCb5Bf 
+
+### 5) Support Vector Machines
+
+The Data we used is the famous [Iris flower data set](http://en.wikipedia.org/wiki/Iris_flower_data_set). 
+
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis. 
+
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
